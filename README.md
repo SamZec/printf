@@ -72,7 +72,7 @@ Output in terminal:
 
 ## Authors
 * Samuel Affum <[SamZec](https://github.com/SamZec)> - ALX School student
-* Abideen Ogunrinu <[]()> - ALX School student
+* Abideen Ogunrinu <[oladim](https://github.com/oladim)> - ALX School student
 
 ## Acknowledgements
 The `_printf` function emulates functionality of the C standard library function `printf`. This README borrows from the Linux man page [printf(3)](https://linux.die.net/man/3/printf).
