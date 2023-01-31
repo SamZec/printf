@@ -56,9 +56,9 @@ The address of the argument is written. The address is written in hexadecimal wi
 A `%` is written. No argument is converted. The complete conversion specification is `%%`.
 
 ## Example
-To print the address of ALX SWE in the format "972 Mission St., San Francisco, CA 94103" where *street*, *city* and *state* are pointers to strings:
+To print the address of ALX SWE in the format "972 Ant St., Madina Accra, GR 94103" where *street*, *city* and *state* are pointers to strings:
 
-> `#include "alxswe.h"`
+> `#include "main.h"`
 >
 > `int main(void)`
 >
